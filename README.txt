@@ -14,6 +14,6 @@ use rust::Meiid;
 let init = Meiid::new();
 let id = init.uuid();
 ```
-id can then be used as you like'd to
+id can then be used as you'd like to
 
 ENjoy :)
