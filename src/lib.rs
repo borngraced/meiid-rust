@@ -19,7 +19,7 @@ use rand::prelude::*;
 /// let init = Meiid::new();
 /// let id = init.uuid();
 /// ```
-/// id can then be used as you like'd to
+/// id can then be used as you'd like to
 /// 
 #[derive(Debug, Clone)]
 pub struct Meiid {}
