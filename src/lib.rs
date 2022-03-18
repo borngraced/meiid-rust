@@ -9,7 +9,6 @@
 use chrono::Utc;
 use rand::prelude::*;
 
-
 /// This module makes it easy to generate uuid for database table or wherever you might need one
 /// 
 /// USAGE:
