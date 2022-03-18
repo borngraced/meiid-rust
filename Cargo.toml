@@ -6,6 +6,9 @@ description = "Meiid UUID generator based on current date for rust"
 keywords = ["uuid", "id", "database"]
 categories = ["database"]
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/borngraced/meiid-rust/"
+
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
