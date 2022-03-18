@@ -1,6 +1,6 @@
 [package]
 name = "meiid"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "Meiid UUID generator based on current date for rust"
 keywords = ["uuid", "id", "database"]

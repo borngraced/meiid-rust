@@ -46,7 +46,7 @@ checksum = "ad5c14e80759d0939d013e6ca49930e59fc53dd8e5009132f76240c179380c09"
 
 [[package]]
 name = "meiid"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "chrono",
  "rand",
